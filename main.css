@@ -1,0 +1,126 @@
+body{
+	font-family:'Segoe UI light', sans-serif;	
+	margin-top: 20px;
+}
+img{
+	max-width: 100%;
+}
+.imagen-fondo{
+	background : url("Image/image_index.JPG");
+	background-attachment: fixed;
+	background-repeat: no-repeat;	
+	background-size: cover;	
+}
+.imagen-fondo-2{
+	background : url("Image/login.JPG");
+	background-attachment: fixed;
+	background-repeat: no-repeat;	
+	background-size: cover;	
+}
+.imagen-fondo-b{
+	background : url("Image/blue.jpg");
+	background-repeat: repeat;
+}
+.marca{
+	border: 1px solid black;
+}
+.redondo{
+	border-radius: 75px;
+}
+.redondo-14{
+	border-radius: 14px 14px 14px 14px;
+}
+.centro{
+    margin-top: 02%;
+}
+.text-2{
+	font-size: 2em;
+}
+.text-3{
+	font-size: 3em;
+}
+.text-4{
+	font-size: 4em;
+}
+.text-5{
+	font-size: 5em;
+}
+.blanco{
+	color: white;
+}
+.negro{
+	color: black;
+}
+.arriba{
+	position: absolute;
+	top: 12%;
+}
+.abajo{
+	position: absolute;
+    bottom: 14%;
+}
+.bar{
+	opacity: .7;
+	background-color: white;
+
+}
+
+.retraso-1{
+	animation-delay: 1s;
+}
+.retraso-4{
+	animation-delay: 4s;
+}
+.float-l{
+	float: left;
+}
+.float-r{
+	float: right;
+}
+.escondido{
+	display: none;
+}
+.volatil{
+	position: fixed;
+    width: 320px;
+    height: 540px;	
+    left: 39%;
+    top: 15%;    
+}
+.barra-grande{
+	width: 80%;
+}
+.barra-mediana{
+	width: 30%;
+}
+.margin-4{
+	margin: 2px;
+}
+.sin-m-p{
+	margin: 0px;
+	padding:0px;
+}
+.element-lf{
+	text-align: left;
+	float: left;
+}
+.cuadro-grande{
+	padding: 20px;
+	border-radius: 15px;
+	margin:5px;
+}
+.cuadro-mediano{
+	padding: 15px;	
+	border-radius: 15px;
+	margin:5px;	
+}
+.fondo-g{
+	background-color: #D1D1D1;
+}
+.fondo-b{
+	background-color: #06283D;
+}
+.sin-fondo{
+	background: none;
+	border:none;
+}
